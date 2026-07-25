@@ -1,6 +1,4 @@
-# 👋 Welcome
-
-# Ejiro Oghenekome
+# 👋 Hi, I am Ejiro Oghenekome
 
 **Cybersecurity • Open Source Security • Software Supply Chain Security • Research**
 
