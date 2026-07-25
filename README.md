@@ -10,9 +10,7 @@ Everything here is version-controlled, continuously updated, and organized to sh
 
 ---
 
-# 🎯 Mission
-
-My goal is to strengthen the security of the open source ecosystem through engineering, research, community collaboration, and education.
+# 🤩 Interest
 
 I am particularly interested in:
 
